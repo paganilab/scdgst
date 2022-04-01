@@ -38,5 +38,4 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 ![This is an image](/assets/images/img1.gif)
-![This is an image](/assets/images/img2.gif)
-![This is an image](/assets/images/img3.gif)
+![This is an image](/assets/images/img2.gif) ![This is an image](/assets/images/img3.gif)
