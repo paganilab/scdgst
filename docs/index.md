@@ -1,42 +1,48 @@
-## Welcome to GitHub Pages
+## Single Cell RNA Sequencing Informs Mechanistic Study of Fasting-Mimicking Diet in the Breast Cancer Microenvironment
 
-You can use the [editor on GitHub](https://github.com/rjpbonnal/scdgst/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Re-embedding cell micropools in a Compass meta-reaction space
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this page you can watch the animated re-embedding of epithelial cell micropools in their 'metabolic', or meta-reaction, space. 
 
-### Markdown
+This process can be completed in acceptable timespans thanks to the merging of approximately 50 cells per micropool. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+So far, we have processed scRNA-seq libraries for three patients: here,we show dynamic re-embedding of all three. 
 
-```markdown
-Syntax highlighted code block
+Feel free to stop by our poster if you want more details on how we plan to use metabolism-oriented single cell transcriptomic analyses, or if you want to have a chat, you can find all of our contacts at the [Pagani Lab](https://www.ifom.eu/it/ricerca-cancro/ricerca-lab/ricerca-lab-pagani.php) webpage.
 
-# Header 1
-## Header 2
-### Header 3
+### Patient 1
+_RNA space embedding:_
+![pt1_start](/assets/images/pt1_start.png)
 
-- Bulleted
-- List
+_Re-embedding:_
+![pt1_movie](/assets/images/pt1_movie.gif)
 
-1. Numbered
-2. List
+_Meta-reaction space embedding:_
+![pt1_end](/assets/images/pt1_end.png)
 
-**Bold** and _Italic_ and `Code` text
+### Patient 2
+_RNA space embedding:_
+![pt2_start](/assets/images/pt2_start.png)
 
-[Link](url) and ![Image](src)
-```
+_Re-embedding:_
+![pt2_movie](/assets/images/pt2_movie.gif)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+_Meta-reaction space embedding:_
+![pt2_end](/assets/images/pt2_end.png)
 
-### Jekyll Themes
+### Patient 3
+_RNA space embedding:_
+![pt3_start](/assets/images/pt3_start.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rjpbonnal/scdgst/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+_Re-embedding:_
+![pt3_movie](/assets/images/pt3_movie.gif)
 
-### Support or Contact
+_Meta-reaction space embedding:_
+![pt3_end](/assets/images/pt3_end.png)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### _References_
 
+1. _Wolf et al., Genome Biology, 2018_
 
-![This is an image](/assets/images/pt1_movie.gif)
-![This is an image](/assets/images/pt2_movie.gif)
-![This is an image](/assets/images/pt3_movie.gif)
+2. _Wagner et al., Cell 2021_
+
