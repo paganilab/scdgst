@@ -6,7 +6,7 @@ In this page you can watch the animated re-embedding of epithelial cell micropoo
 
 This process can be completed in acceptable timespans thanks to the merging of approximately 50 cells per micropool. 
 
-So far, we have processed scRNA-seq libraries for three patients: here,we show dynamic re-embedding of all three. 
+So far, we have processed scRNA-seq libraries for three patients: here, we show dynamic re-embedding of all three. 
 
 Feel free to stop by our poster if you want more details on how we plan to use metabolism-oriented single cell transcriptomic analyses, or if you want to have a chat, you can find all of our contacts at the [Pagani Lab](https://www.ifom.eu/it/ricerca-cancro/ricerca-lab/ricerca-lab-pagani.php) webpage.
 
