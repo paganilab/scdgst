@@ -42,7 +42,20 @@ _Meta-reaction space embedding:_
 
 ### _References_
 
-1. _Wolf et al., Genome Biology, 2018_
+1. [_Raffaghello et al., 2008, PNAS_](https://doi.org/10.1073/pnas.0708100105)
 
-2. _Wagner et al., Cell 2021_
+2. [_Lee et al., 2012, Science Translational Medicine_](https://doi.org/10.1126/scitranslmed.3003293)
 
+3. [_Vernieri et al., 2022, Cancer Discovery_](https://doi.org/10.1158/2159-8290.CD-21-0030)
+
+4. [_Wolf et al., 2018, Genome Biology_](https://doi.org/10.1186/s13059-017-1382-0)
+
+5. [_Wagner et al., 2021, Cell_](https://doi.org/10.1016/j.cell.2021.05.045)
+
+6. [_DeTomaso et al., 2019, Nature Communications_](https://doi.org/10.1038/s41467-019-12235-0)
+
+7. [_Dekkers et al., 2021, Nature Protocols_](https://doi.org/10.1038/s41596-020-00474-1)
+
+8. [_Nakajima and Van Houten, 2012, Molecular Carcinogenesis_](https://doi.org/10.1002/mc.21863)
+
+9. [_Pliner et al., 2019, Nature Methods_](https://doi.org/10.1038/s41592-019-0535-3)
