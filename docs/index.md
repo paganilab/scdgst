@@ -37,6 +37,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 
-![This is an image](/assets/images/img1.gif)
-![This is an image](/assets/images/img2.gif)
-![This is an image](/assets/images/img3.gif)
+![This is an image](/assets/images/pt1_movie.gif)
+![This is an image](/assets/images/pt2_movie.gif)
+![This is an image](/assets/images/pt3_movie.gif)
